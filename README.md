@@ -6,6 +6,24 @@ NIM : 312210116
 
 Kelas : TI.22.A.1
 
+![tugas](https://github.com/user-attachments/assets/aa108798-d8aa-4e91-b890-6d5264c9804b)
+
+- Dari kunci "TEKNIK INFORMATIKA", kita akan menghilangkan karakter yang berulang dan menuliskannya ke dalam matriks 5x5, menggabungkan huruf I dan J (sebagai satu entitas, karena alfabet hanya memiliki 25 huruf untuk tabel Playfair). Sisanya diisi dengan huruf-huruf alfabet lainnya yang belum digunakan.
+
+- Kunci yang diberikan: TEKNIK INFORMATIKA
+
+    - Hilangkan huruf berulang: TEKNIKFORMA
+    - Matriks 5x5:
+
+ ```
+T E K N I
+K F O R M
+A B C D G
+H L P Q S
+U V W X Y
+```
+
+
 ### Code 
 
 ```
