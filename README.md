@@ -1,4 +1,10 @@
-# kriptografi
+# Tugas Kriptografi
+
+Nama : Dhea Dwi Adelia
+
+NIM : 312210116
+
+Kelas : TI.22.A.1
 
 ### Code 
 
@@ -84,17 +90,16 @@ for plaintext in plaintexts:
 ![hasil](https://github.com/user-attachments/assets/e4faa7a4-c5a3-491a-8756-b73abd61e5fb)
 
 
-
 ### Penjelasan:
 
-1. Fungsi "generate_playfair_matrix(key)":
+1. Fungsi ```generate_playfair_matrix(key)```:
+   
+   Menghasilkan tabel 5x5 berdasarkan kunci yang diberikan, menggabungkan huruf "I" dan "J" serta menghilangkan karakter yang berulang.
 
-    Menghasilkan tabel 5x5 berdasarkan kunci yang diberikan, menggabungkan huruf "I" dan "J" serta menghilangkan karakter yang berulang.
+2. Fungsi ```find_position(matrix, char)```:
+   
+   Menemukan posisi suatu karakter di dalam tabel Playfair.
 
-2. Fungsi "find_position(matrix, char)":
-
-    Menemukan posisi suatu karakter di dalam tabel Playfair.
-
-3. Fungsi "playfair_encrypt(plaintext, key)":
-
-    Melakukan enkripsi menggunakan aturan Playfair Cipher. Teks dienkripsi dengan pasangan huruf sesuai dengan aturan enkripsi Playfair (baris sama, kolom sama, baris-kolom berbeda).
+3. Fungsi ```playfair_encrypt(plaintext, key)```:
+   
+   Melakukan enkripsi menggunakan aturan Playfair Cipher. Teks dienkripsi dengan pasangan huruf sesuai dengan aturan enkripsi Playfair (baris sama, kolom sama, baris-kolom berbeda).
