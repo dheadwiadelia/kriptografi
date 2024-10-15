@@ -81,7 +81,8 @@ for plaintext in plaintexts:
     print()
 ```
 
-![Screenshot (28)](https://github.com/user-attachments/assets/b15b0d30-9f5b-4136-86f9-81efe28e7052)
+![hasil](https://github.com/user-attachments/assets/e4faa7a4-c5a3-491a-8756-b73abd61e5fb)
+
 
 
 ### Penjelasan:
